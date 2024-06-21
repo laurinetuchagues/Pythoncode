@@ -1,0 +1,2 @@
+
+When comparing regions, the proportions of customers with different spending habits are very similar. The Midwest had the highest proportion of 'High spender' customers at 0.385%, while the Northeast had the lowest at 0.326%.
